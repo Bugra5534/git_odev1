@@ -6,4 +6,6 @@
 
 
 
-Projeyi başlatan: Buğra
+
+
+Proje Lideri: Bugra
