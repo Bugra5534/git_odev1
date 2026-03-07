@@ -6,4 +6,6 @@
 
 
 
-Projeyi başlatan: Buğra
+
+
+Projeyi Başlatan Kişi: Buğra
