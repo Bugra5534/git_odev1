@@ -8,3 +8,6 @@
 
 
 Projenin Liderleri: Buğra ve Mahmut
+
+
+"Fetch deneyi icin düzenlendi."
