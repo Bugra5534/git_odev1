@@ -7,5 +7,4 @@
 
 
 
-
-Projeyi Başlatan Kişi: Buğra
+Projenin Liderleri: Buğra ve Mahmut
