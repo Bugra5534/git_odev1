@@ -6,5 +6,5 @@
 
 
 
-Projeyi başlatan: Buğra
-Proje Lideri: Mahmut
+
+Projenin Liderleri: Buğra ve Mahmut
